@@ -1,4 +1,4 @@
-## Oláa! Eu sou a Jackeline Lima, sou estudante de programação!
+## Oláa! Sou a Jackeline Lima, estudante de programação!
 
 🙂 Pronoums: ela/dela
 
