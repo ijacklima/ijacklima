@@ -1,7 +1,7 @@
 ### Welcome to my page 
 Here is what I'm working on!
 
-🙂 Pronoums: ela/dela
+🙂 Pronoums: She/Her
 
 <div align="center">
   <a href="https://github.com/ijacklima">
